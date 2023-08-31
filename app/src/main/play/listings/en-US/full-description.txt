@@ -1,0 +1,95 @@
+"Gesture control" is the next big thing on android and ios.
+
+But why should we buy a new device or wait for a new android version to use our device in this awesome intuitive way?
+
+"Vivid Navigation Gestures" allows you to control your device with gestures instead of button presses.
+
+
+<b>Fluid Effects</b>
+"Vivid Navigation Gestures" includes beautiful visual effects while performing gestures.
+
+
+<b>Multiple Gesture Triggers</b>
+• Bottom
+• Left
+• Right
+• Top
+
+<b>Available Gestures</b>
+• Swipe up
+• Swipe up and hold
+• Swipe up and left
+• Swipe up and left and hold
+• Swipe up and right
+• Swipe up and right and hold
+• Swipe left
+• Swipe left and hold
+• Swipe swipe
+• Swipe swipe right and hold
+• Swipe down and hold
+• Swipe down and left
+• Swipe down and left and hold
+• Swipe down and right
+• Swipe down and right and hold
+• Tap
+• Double Tap
+• Triple Tap
+• Hold
+
+<b>Available Actions</b>
+• Launch Google Assistant
+• Back
+• Home
+• Menu
+• Kill App
+• Last App (requires root or android 9.0+)
+• Open notifications
+• Open power dialog
+• Recent apps
+• Open quick settings
+• Toggle split screen
+• Toggle auto rotation
+• Toggle nav bar
+• Toggle torch
+• Launch apps
+• Launch shortcuts
+• Take screenshots (requires root or android 9.0+)
+• Play/Pause your current track
+• Skip to the next track
+• Skip to the previous track
+• Search
+• Keycodes
+• Input method picker
+• Show volume controls
+• You can request actions in my subreddit
+
+
+<b>Hide the navigation bar<b/>
+"Vivid Navigation Gestures" allows you to hide your stock nav bar as long as the gestures are enabled.
+You need ADB or Root in order to use that feature.
+
+
+<b>Android ADB PC instructions<b/>
+1 - Enable Developer Mode in the Android settings.
+2 - Enable USB Debugging
+3 - Setup ADB on your PC
+4 - Run the following adb command to grant the permission:
+adb shell pm grant com.ivianuu.haloo android.permission.WRITE_SECURE_SETTINGS
+
+To restore the navigation keys disable the app or run this command:
+adb shell wm overscan 0,0,0,0
+
+
+<b>How to install ADB<b/>
+Gadget Hacks - https://youtu.be/CDuxcrrWLnY
+Lifehacker - https://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378
+Xda developers - https://www.xda-developers.com/install-adb-windows-macos-linux/
+
+
+So what you're waiting get the next big thing now no matter which device you're using or which android version you're running.
+
+
+<b>Links:</b>
+
+Reddit:
+https://www.reddit.com/r/manuelwrageapps/
